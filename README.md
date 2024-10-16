@@ -87,3 +87,13 @@ I Develop a College Directory Application to facilitate seamless interaction bet
 - **FacultyProfile to Course:** One-to-Many relationship where one faculty member can teach multiple courses.
 - **Course to StudentProfile:** Many-to-Many relationship through Enrollment.
 - **Department to Profiles/Course:** One-to-Many relationship where each department can have multiple users and courses.
+  
+## Installation Instructions
+- Clone the repository.
+- Set up the PostgreSQL database.
+- Configure application properties.
+- Run the application.
+  
+## Future Improvements
+- Implement a frontend interface using React.
+- Enhance security with JWT tokens for authentication.
