@@ -90,7 +90,7 @@ I Develop a College Directory Application to facilitate seamless interaction bet
   
 ## Installation Instructions
 - Clone the repository.
-- Set up the PostgreSQL database.
+- Set up the MySQL database.
 - Configure application properties.
 - Run the application.
   
