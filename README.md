@@ -97,4 +97,4 @@ I Develop a College Directory Application to facilitate seamless interaction bet
 ## Future Improvements
 - Implement a frontend interface using React.
 - Enhance security with JWT tokens for authentication.
- ![my pic]("https://github.com/boiniraj/College-Directory-Application/blob/main/Screenshot%202024-10-22%20213017.png")
+
