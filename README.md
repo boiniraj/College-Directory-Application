@@ -44,6 +44,7 @@ I Develop a College Directory Application to facilitate seamless interaction bet
   
 ## API Endpoints Overview
 - Below is a general outline of your API design. For detailed API endpoints:
+  
 ![College-API](Screenshot%202024-10-22%20213017.png "College-API")
 
 ## API Overview:
