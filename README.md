@@ -18,7 +18,7 @@ I Develop a College Directory Application to facilitate seamless interaction bet
 - Redirect users to their respective dashboards based on their role.
 - Implement error handling for incorrect credentials.
 - 
-### User Login Page
+## User Login Page
   
   ![Login image](college.png "Login image")
 
