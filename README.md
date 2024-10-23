@@ -41,8 +41,17 @@ I Develop a College Directory Application to facilitate seamless interaction bet
 #### A. Manage Student and Faculty Records
 - Form to add, update, or remove student and faculty records.
 - List view of records with options for CRUD operations.
-## API END POINTS
-![Login Page](Screenshot%202024-10-22%20213017.png "Login Page")
+  
+## API Endpoints Overview
+- Below is a general outline of your API design. For detailed API endpoints:
+![College-API](Screenshot%202024-10-22%20213017.png "College-API")
+
+## API Overview:
+- Login/Authentication API: Handle login with user roles (Student, Faculty, Admin).
+- Profile Management APIs: Endpoints to fetch and update user profiles.
+- Search APIs: Allow searching students and faculty by name, department, etc.
+- Course and Enrollment APIs: Manage courses and enrollments for faculty and students.
+- CRUD APIs for Admin: Manage student/faculty records.
 
 ## Technical Requirements
 
