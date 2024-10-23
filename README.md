@@ -42,7 +42,7 @@ I Develop a College Directory Application to facilitate seamless interaction bet
 - Form to add, update, or remove student and faculty records.
 - List view of records with options for CRUD operations.
 ## API END POINTS
-![Login Page](images/Screenshot%202024-10-22%20213017.png "Login Page")
+![Login Page](Screenshot%202024-10-22%20213017.png "Login Page")
 
 ## Technical Requirements
 
