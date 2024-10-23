@@ -17,6 +17,8 @@ I Develop a College Directory Application to facilitate seamless interaction bet
 - Validate user credentials against the MySQL database.
 - Redirect users to their respective dashboards based on their role.
 - Implement error handling for incorrect credentials.
+- 
+### User Login Page
   
   ![Login image](college.png "Login image")
 
