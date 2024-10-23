@@ -14,7 +14,7 @@ I Develop a College Directory Application to facilitate seamless interaction bet
 - Submit button to log in.
 
 #### Functionality
-- Validate user credentials against the PostgreSQL database.
+- Validate user credentials against the MySQL database.
 - Redirect users to their respective dashboards based on their role.
 - Implement error handling for incorrect credentials.
 
@@ -41,6 +41,8 @@ I Develop a College Directory Application to facilitate seamless interaction bet
 #### A. Manage Student and Faculty Records
 - Form to add, update, or remove student and faculty records.
 - List view of records with options for CRUD operations.
+## API END POINTS
+![Login Page](images/Screenshot2024.png "Login Page")
 
 ## Technical Requirements
 
